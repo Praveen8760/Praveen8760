@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Leaning**
 
-- 💬 Ask me about **Html,CSS,TailWindCSSJavaScript,React,ExpressJS**
+- 💬 Ask me about **Node Js,Express Js,JavaScript,React,HTMl,CSS,MongoDB,SQL**
 
 - 📫 How to reach me **praveen890340@gmail.com**
 
