@@ -1,111 +1,151 @@
-# 👋 Hi, I’m Praveen
+<div align="center">
 
-### 🚀 Pre-Final Year Computer Science Student | Backend-Focused Full-Stack Developer | AWS Learner
+# 👋 Hi, I’m **Praveen**
 
-I’m a Computer Science student from **Chennai, India**, with a strong interest in building **scalable, backend-driven systems**.  
-My current focus is on **backend development using the MERN stack**, with an emphasis on **clean architecture, API design, and system scalability**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Backend-Focused+Full-Stack+Developer;AWS+Learner+%7C+Cloud+%26+Scalable+Systems;Pre-Final+Year+Computer+Science+Student;Building+Reliable+%26+Scalable+Backends" alt="Typing SVG" />
+
+🌍 **Chennai, India**
+
+</div>
+
+---
+
+## 💫 About Me
+
+I’m a **Computer Science student** passionate about building  
+⚙️ **scalable, backend-driven systems** that perform reliably in real-world conditions.
+
+My core focus areas:
+- 🧩 **Backend development (MERN stack)**
+- 🏗 **Clean architecture & API design**
+- 📈 **Scalable and maintainable system design**
 
 Alongside backend engineering, I’m:
-- ☁️ Learning **AWS** to design and deploy cloud-native services  
-- 🤖 Exploring **machine learning applications** in real-world systems  
-- 🧠 Improving my understanding of **system design and engineering trade-offs**
+- ☁️ Learning **AWS** to design cloud-native services  
+- 🤖 Exploring **machine learning** use cases in production systems  
+- 🧠 Strengthening my understanding of **engineering trade-offs**
 
-Feel free to ask me about **backend architecture, REST APIs, cloud fundamentals, or scalable system design**.
+💬 *Ask me about backend architecture, REST APIs, AWS fundamentals, or scalable systems.*
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenthirumurthy)
+<p align="left">
+<a href="https://linkedin.com/in/praveenthirumurthy">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🧭 Engineering Focus (Amazon-Aligned)
 
-- 🏗 Designing **RESTful backend services** with clean separation of concerns  
+- 🏗 Designing **RESTful backend services** with clear separation of concerns  
 - 🔐 Implementing **authentication, authorization, and secure APIs**  
-- ☁️ Learning AWS services (EC2, S3, IAM, RDS, Lambda) with a systems mindset  
-- 📦 Writing backend code that supports **scalability, maintainability, and observability**  
-- 🔍 Understanding **trade-offs** between performance, cost, and simplicity  
+- ☁️ Learning AWS services — EC2, S3, IAM, RDS, Lambda  
+- 📦 Building backend systems with **scalability, reliability & observability**  
+- 🔍 Evaluating **trade-offs** between performance, cost, and simplicity  
 
 ---
 
-## 🚀 Flagship Project — Scalable Backend Service (MERN + AWS)
+## 🚀 Flagship Project  
+### 🧩 Scalable Backend Service (MERN + AWS)
 
-### 📌 Situation  
-Many student-level full-stack projects work locally but lack **production-ready backend design**, scalability, and maintainability.
+#### 📌 Situation
+Many student-level full-stack projects function locally but lack  
+**production-ready backend design, scalability, and maintainability**.
 
-### 🎯 Task  
-Build a **backend-first service** that supports real-world usage patterns, clean API contracts, and cloud deployment.
+#### 🎯 Task
+Build a **backend-first service** capable of handling real-world usage,
+secure access, and cloud deployment.
 
-### 🛠 Action  
-- Designed REST APIs using **Node.js and Express**
+#### 🛠 Action
+- Designed REST APIs using **Node.js & Express**
 - Implemented **JWT-based authentication** and role-based access control
-- Structured the backend using **controller–service–repository** architecture
-- Used **MongoDB / PostgreSQL** with indexed queries
+- Followed **controller–service–repository** architecture
+- Optimized data access using **MongoDB / PostgreSQL indexing**
 - Added centralized **error handling, logging, and validation**
-- Deployed using **AWS infrastructure** with environment-based configuration
+- Deployed using **AWS infrastructure** with environment-based configs
 
-### ✅ Result  
-- Delivered a backend that is **easy to extend, debug, and maintain**
-- Gained hands-on experience with **scalability and cloud deployment**
-- Applied engineering practices aligned with **Amazon’s Ownership & Dive Deep principles**
+#### ✅ Result
+- Delivered a backend that is **maintainable, extensible, and scalable**
+- Gained hands-on experience with **cloud deployment & system design**
+- Applied practices aligned with **Amazon’s Ownership & Dive Deep principles**
+
+---
+
+## 🧪 Testing & Observability (Growing Area)
+
+- API testing using **Postman**
+- Consistent HTTP status codes & error responses
+- Structured logs for easier debugging
+- Designing services with future **monitoring & alerting** in mind
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python"/>
+</p>
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap"/>
+</p>
 
 ### 🛠 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+</p>
 
 ### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render)
-
-### 🎨 UI / UX
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd)
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
+</p>
 
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen8760&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveen8760&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen8760&theme=dark&hide_border=true&layout=compact)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Praveen8760&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen8760&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen8760&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Praveen8760&theme=radical&no-frame=true&no-bg=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Praveen8760&theme=radical&no-frame=true&no-bg=true"/>
 
 ---
 
 ## 🧠 Engineering Philosophy
-> *Simple systems scale better than complex ones.*
+> **“Simple systems scale better than complex ones.”**
 
 ---
 
 ## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Praveen8760&icon=2&color=0)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=Praveen8760&icon=2&color=0"/>
 
 ---
 
-⭐ Always open to learning, feedback, and building reliable software systems.
+<div align="center">
+
+⭐ **Always learning. Always building. Always improving.**
+
+</div>
