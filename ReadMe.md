@@ -38,7 +38,7 @@ Alongside backend engineering, I’m:
 
 ---
 
-## 🧭 Engineering Focus (Amazon-Aligned)
+## 🧭 Engineering Focus
 
 - 🏗 Designing **RESTful backend services** with clear separation of concerns  
 - 🔐 Implementing **authentication, authorization, and secure APIs**  
@@ -74,7 +74,7 @@ secure access, and cloud deployment.
 
 ---
 
-## 🧪 Testing & Observability (Growing Area)
+## 🧪 Testing & Observability 
 
 - API testing using **Postman**
 - Consistent HTTP status codes & error responses
